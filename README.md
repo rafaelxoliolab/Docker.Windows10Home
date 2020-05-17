@@ -13,7 +13,7 @@ Docker Desktop requires Windows 10 Pro or Enterprise version 15063 or Windows 10
 ### Configure Edition on Regedit
 1. Open the Registry Editor (*Windows + R*, then write *regedit*)
 2. Go to `\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion`
-3. Right-Click on `EditionID` and click `Modifiy`
+3. Right-Click on `EditionID` and click `Modify`
 4. Change value data to `Professional`
 5. Press `OK`
 
